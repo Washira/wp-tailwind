@@ -1,6 +1,6 @@
 # Create Wordpress theme with TailwindCSS 
 
-1. Underscore and Tailwind (`https://underscoretw.com/`)[https://underscoretw.com/]
+1. Underscore and Tailwind [https://underscoretw.com]
 
 2. Unzip and move to `wp-content/themes`
 
