@@ -6,5 +6,5 @@
 
 3. Run CLI `npm install && npm run dev` in the moved folder
 
-4. 
+4. Run CLI `npm install browser-sync --save-dev` 
   
