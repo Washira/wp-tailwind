@@ -7,3 +7,4 @@
 3. Run CLI `npm install && npm run dev` in the moved folder
 
 4. 
+  
